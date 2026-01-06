@@ -1,0 +1,6 @@
+artifact_location: file:///app/outputs/mlruns/850791017210289773
+creation_time: 1767704371591
+experiment_id: '850791017210289773'
+last_update_time: 1767704371591
+lifecycle_stage: active
+name: optuna-xgboost-optimization
